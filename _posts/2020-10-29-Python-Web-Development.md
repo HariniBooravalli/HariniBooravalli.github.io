@@ -1,6 +1,6 @@
 --
 layout: post
-title: "Harini Booravalli, Launches Site"
+title: "Projects Related to Python Web Development"
 date: 2020-10-30
 ---
 
