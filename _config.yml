@@ -1,5 +1,6 @@
 name: Harini Booravalli Suresh,Software Developer
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-architect
+url: "https://harinibooravalli.github.io"
+paginate: 10
+markdown: rdiscount
+permalink: pretty
+pygments: true
