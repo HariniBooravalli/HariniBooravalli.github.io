@@ -17,7 +17,8 @@ I have recently started a youtube channel to support my python coding journey.
 I have shown the entire project on the youtube channel below.
 
 [GitHub link for Wiki](https://github.com/me50/HariniBooravalli/tree/web50-project1-2020-wiki)
-[Youtube linkfor Wiki](https://www.youtube.com/watch?v=hIQ15YoZ_nE&feature=youtu.be)
+
+[Youtube link for Wiki](https://www.youtube.com/watch?v=hIQ15YoZ_nE&feature=youtu.be)
 
 
 
