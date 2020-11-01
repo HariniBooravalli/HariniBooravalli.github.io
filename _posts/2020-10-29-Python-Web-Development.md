@@ -15,8 +15,9 @@ Currently the project is not hosted on server but has been uploaded on my github
 I have recently started a youtube channel to support my python coding journey.
 I have shown the entire project on the youtube channel below.
 
-GitHub link:- "https://github.com/me50/HariniBooravalli/tree/web50-project1-2020-wiki"
-Youtube link:- "https://www.youtube.com/watch?v=hIQ15YoZ_nE&feature=youtu.be"
+[GitHub link for Wiki](https://github.com/me50/HariniBooravalli/tree/web50-project1-2020-wiki)
+
+[Youtube linkfor Wiki](https://www.youtube.com/watch?v=hIQ15YoZ_nE&feature=youtu.be)
 
 Main functionalities provided by this:- 
 
