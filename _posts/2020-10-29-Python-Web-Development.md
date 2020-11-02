@@ -1,7 +1,7 @@
 --
 layout: post
 title: "Projects Related to Python Web Development"
-date: 2020-10-30
+@import "jekyll-theme-dinky";
 ---
 
 This blog gives a brief description on all my web development projects.I have chosen python and Django for web development due to the following reasons:-
