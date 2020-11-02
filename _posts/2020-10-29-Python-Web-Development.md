@@ -1,8 +1,3 @@
---
-layout: post
-title: "Projects Related to Python Web Development"
-@import "jekyll-theme-dinky";
----
 
 This blog gives a brief description on all my web development projects.I have chosen python and Django for web development due to the following reasons:-
 Easy to learn and use,Versatile and runs on all the platform,Django framework is powerful and finally i have intersts in the fields of Machine Learning , Big Data and AI, python is one of the core languages and hence compatible too.
